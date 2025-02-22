@@ -5,6 +5,9 @@
 [submodule "SimEngine"]
 	path = SimEngine
 	url = https://github.com/avi-kenny/simengine
+[submodule "steppedwedge"]
+	path = steppedwedge
+	url = https://github.com/avi-kenny/steppedwedge
 [submodule "vaccine"]
 	path = vaccine
 	url = https://github.com/avi-kenny/vaccine
